@@ -21,3 +21,11 @@ functions that hook into the state and lifecycle features from function componen
 - useState
 - useEffect
 - useContext, useReducer, useRef
+
+## Start
+
+`npx create-react-app xxx`
+
+`cd xxx`
+
+`npm start`
